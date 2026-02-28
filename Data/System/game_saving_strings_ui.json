@@ -1,0 +1,13 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+  	"SaveGameMenu.cs.11378": "Progress kini tersimpan!",
+  	"SaveGameMenu.cs.11381": "Menyimpan...",
+      }
+    }
+  ]
+}
+// [Warning: Forrindo tidak melakukan translasi file satu demi satu secara keseluruhan! Demi kenyamanan penggunaan, Forrindo akan memisahkan setiap translasi menjadi kelompok dalam urutan event dan alur bermain yang tepat dan terpandu. Tanpa mencampur segalanya, hubungi kami perihal peringatan ataupun keinginan untuk menghapus pesan ini]

@@ -1,0 +1,12 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/1_6_Strings",
+      "Entries": {
+        "Farm_Ranching_Description": "Kawasan Padang Hijau_Jadi pilihan terbaik jika bertani dan berkebun bukan lagi yang utama, rumput biru yang dicintai para ternak juga tumbuh alami di sini. Akan memulai permainan dengan 2 Ayam."
+      }
+    }
+  ]
+}
+// [Warning: Forrindo tidak melakukan translasi file satu demi satu secara keseluruhan! Demi kenyamanan penggunaan, Forrindo akan memisahkan setiap translasi menjadi kelompok dalam urutan event dan alur bermain yang tepat dan terpandu. Tanpa mencampur segalanya, hubungi kami perihal peringatan ataupun keinginan untuk menghapus pesan ini]

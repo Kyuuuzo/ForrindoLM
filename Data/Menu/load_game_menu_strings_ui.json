@@ -1,0 +1,13 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/UI",
+      "Entries": {
+        "LoadGameMenu_LookingForSavedGames": "Sedang mencari permainan yang tersimpan...",
+        "LoadGameMenu_Deleting": "Menghapus..."
+      }
+    }
+  ]
+}
+// [Warning: Forrindo tidak melakukan translasi file satu demi satu secara keseluruhan! Demi kenyamanan penggunaan, Forrindo akan memisahkan setiap translasi menjadi kelompok dalam urutan event dan alur bermain yang tepat dan terpandu. Tanpa mencampur segalanya, hubungi kami perihal peringatan ataupun keinginan untuk menghapus pesan ini]

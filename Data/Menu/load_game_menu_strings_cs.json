@@ -1,0 +1,26 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+        "SaveGame.cs.4690": "Sedang menyusun...",
+        "Game1.cs.3688": "Tunggu sebentar",
+        "Game1.cs.3689": "Tunggu sebentar...",
+        "LoadGameMenu.cs.10992": "Oke",
+        "LoadGameMenu.cs.10993": "Batalkan",
+  	"LoadGameMenu.cs.10994": "Hapus permainan",
+  	"LoadGameMenu.cs.11019": "Lahan {0}",
+  	"LoadGameMenu.cs.11020": "{0}R",
+  	"LoadGameMenu.cs.11022": "Gak ada apa-apa di sini",
+  	"LoadGameMenu.cs.11023": "Yakin ingin menghapus: {0}?",
+        "Utility.cs.5678": "{0} {1} | Tahun {2}",
+  	"Utility.cs.5680": "Musim Semi",
+  	"Utility.cs.5681": "Musim Panas",
+  	"Utility.cs.5682": "Musim Gugur",
+  	"Utility.cs.5683": "Musim Salju",
+      }
+    }
+  ]
+}
+// [Warning: Forrindo tidak melakukan translasi file satu demi satu secara keseluruhan! Demi kenyamanan penggunaan, Forrindo akan memisahkan setiap translasi menjadi kelompok dalam urutan event dan alur bermain yang tepat dan terpandu. Tanpa mencampur segalanya, hubungi kami perihal peringatan ataupun keinginan untuk menghapus pesan ini]

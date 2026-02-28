@@ -1,0 +1,24 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Strings/StringsFromCSFiles",
+      "Entries": {
+  	"GrandpaStory.cs.12026": "...Teruntuk cucuku yang tercinta.",
+  	"GrandpaStory.cs.12028": "...Teruntuk cucuku yang tercinta.",
+  	"GrandpaStory.cs.12029": "Aku mohon, simpanlah amplop dariku ini.",
+  	"GrandpaStory.cs.12030": "Kau pasti ingin membukanya. Tapi, ini bukanlah saatnya.",
+  	"GrandpaStory.cs.12031": "Sekarang, tolong dengarkan kakekmu ini dulu...",
+  	"GrandpaStory.cs.12034": "Karena, akan ada kalanya, hari-harimu nanti dipenuhi oleh tekanan kehidupan modern...",
+  	"GrandpaStory.cs.12035": "...dan perlahan, sosok di dalam dirimu dapat luntur, menjadi pribadi yang hampa.",
+  	"GrandpaStory.cs.12036": "Saat hari itu mulai datang, bukalah pemberianku ini. Dariku dan hanya untuk cucuku sendiri.",
+  	"GrandpaStory.cs.12038": "Saat hari itu mulai datang, bukalah pemberianku ini. Dariku dan hanya untuk cucuku sendiri.",
+  	"GrandpaStory.cs.12040": "Sudah waktunya bagiku untuk tidur kembali...",
+	"GrandpaStory.cs.12059": "Beberapa tahun berlalu...",
+  	"GrandpaStory.cs.12051": "Dariku kepada {0},^^Dengan membuka amplop ini, kau telah berkata bahwa hidupmu sendiri perlu berubah.^^Rasanya, kau sudah seperti cerminan diriku di masa lalu. Aku telah buta akan hubungan sejati dengan sesama kita maupun kepada alam itu sendiri. Meninggalkan semuanya waktu itu terasa sulit, hanya untuk mencari tempat dimana aku seharusnya berada.^^^Telah aku lampirkan sertifikat untuk tempat itu... surga duniaku: Lahan {1}. Itu semua terletak di Stardew Valley, pada pesisir selatan. Satu-satunya tempat bagi kau untuk merangkai ulang hidup yang sesungguhnya.^^Dan kini, kau telah memegang seluruh hadiah terbaik yang dapat aku berikan. Aku yakin, kau dapat membanggakan nama keluarga kita. Apapun yang terjadi.^^Peluk hangat, Kakek^^Catatan: Jangan lupa sampaikan salam dariku jika si Lewis masih hidup, hanya karena dia aku mengenal apa artinya memiliki sahabat",
+  	"GrandpaStory.cs.12055": "Dariku kepada {0},^^Dengan membuka amplop ini, kau telah berkata bahwa hidupmu sendiri perlu berubah.^^Rasanya, kau sudah seperti cerminan diriku di masa lalu. Aku telah buta akan hubungan sejati dengan sesama kita maupun kepada alam itu sendiri. Meninggalkan semuanya waktu itu terasa sulit, hanya untuk mencari tempat dimana aku seharusnya berada.^^^Telah aku lampirkan sertifikat untuk tempat itu... surga duniaku: Lahan {1}. Itu semua terletak di Stardew Valley, pada pesisir selatan. Satu-satunya tempat bagi kau untuk merangkai ulang hidup yang sesungguhnya.^^Dan kini, kau telah memegang seluruh hadiah terbaik yang dapat aku berikan. Aku yakin, kau dapat membanggakan nama keluarga kita. Apapun yang terjadi.^^Peluk hangat, Kakek^^Catatan: Jangan lupa sampaikan salam dariku jika si Lewis masih hidup, hanya karena dia aku mengenal apa artinya memiliki sahabat"
+      }
+    }
+  ]
+}
+// [Warning: Forrindo tidak melakukan translasi file satu demi satu secara keseluruhan! Demi kenyamanan penggunaan, Forrindo akan memisahkan setiap translasi menjadi kelompok dalam urutan event dan alur bermain yang tepat dan terpandu. Tanpa mencampur segalanya, hubungi kami perihal peringatan ataupun keinginan untuk menghapus pesan ini]

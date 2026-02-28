@@ -1,0 +1,33 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+    {
+      "Action": "Include",
+      "FromFile": "Data/Menu/character_custom_strings_1_6.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Data/Menu/character_custom_strings_ui.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Data/Menu/load_game_menu_strings_ui.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Data/Menu/load_game_menu_strings_cs.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Data/Scene/Intro/grandpa_story_strings_cs.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Data/Scene/Intro/player_arrival_data_event.json"
+    },
+    {
+      "Action": "Include",
+      "FromFile": "Data/System/game_saving_strings_ui.json"
+    }
+  ]
+}
