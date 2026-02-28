@@ -4,9 +4,10 @@
   "Version": "0.1.0",
   "Description": "[Alpha Release - Menu & Intro Translate] Dari Indonesia, untuk Indonesia. Hingga pada peresmian Bahasa Indonesia secara Official, kami akan terus memberikan pengalaman bermain dalam suasana lokal yang unik dan menyenangkan!",
   "UniqueID": "KyuFLM",
-  "UpdateKeys": ["Github:Kyuuuzo/Forrindo"]
+  "UpdateKeys": ["Github:Kyuuuzo/Forrindo"],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
 
 }
+
