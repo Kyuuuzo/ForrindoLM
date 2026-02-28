@@ -15,14 +15,16 @@ This mod is crafted to bring an immersive Indonesian experience to Stardew Valle
 Until an official Indonesian localization is released, we aim to be the premier choice for players seeking a fresh, engaging, and culturally resonant way to enjoy the valley!
 
 ## 🖼️ Preview
-*(Drag & Drop / Tarik gambar screenshot bersih kamu ke sini. Hapus tulisan miring ini setelah gambar berhasil terupload!)*
+![WhatsApp Image 2026-02-28 at 2 48 54 PM (2)](https://github.com/user-attachments/assets/6b2b0c1c-1865-4daf-b209-3e6dd07a6066)
+![WhatsApp Image 2026-02-28 at 2 53 49 PM (1)](https://github.com/user-attachments/assets/1ec904be-3a90-45a9-9c41-9639489f6a89)
+![WhatsApp Image 2026-02-28 at 2 54 52 PM (1)](https://github.com/user-attachments/assets/7f1fa92a-108f-4a4a-8ca5-fd9cacf935a2)
+
 
 ---
 
 ## ✨ Fitur Saat Ini (Alpha)
-- [Sebutkan fitur 1, contoh: Tekstur kandang ayam (Coop) sudah selesai 100%]
-- [Sebutkan fitur 2, contoh: Warna rumput menyesuaikan dengan musim]
-- Sepenuhnya bisa diubah-ubah menggunakan `config.json`.
+- Translasi & Lokalisasi Intro (Grandpa, Bus Stop)
+- Translasi & Lokalisasi Menu (Pembuatan Karakter & save file)
 
 ---
 
