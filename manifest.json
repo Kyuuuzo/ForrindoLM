@@ -4,12 +4,13 @@
   "Version": "0.1.0",
   "Description": "[Alpha Release - Menu & Intro Translate] Dari Indonesia, untuk Indonesia.",
   "UniqueID": "KyuFLM",
-  "UpdateKeys": ["Github:Kyuuuzo/ForrindoLM"],
+  "UpdateKeys": ["GitHub:Kyuuuzo/ForrindoLM"],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
 
 }
+
 
 
 
