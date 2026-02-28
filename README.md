@@ -4,13 +4,15 @@
 [![SMAPI Required](https://img.shields.io/badge/SMAPI-Required-green.svg)](https://smapi.io/)
 [![Content Patcher](https://img.shields.io/badge/Content_Patcher-Required-blue.svg)](https://www.nexusmods.com/stardewvalley/mods/1915)
 
-### ⚠️ PERINGATAN: VERSI ALPHA**
-> Mod ini masih dalam tahap **Alpha** (pengembangan awal). A. Silakan laporkan jika ada error, saran, atau masukan di tab **Issues**!
+## ⚠️ EARLY ACCESS: ALPHA PHASE
+> This project is in its early stages of development. As an **Alpha release**, some bugs or inconsistencies may occur. Your feedback is vital—please share any reports or poetic suggestions in the **Issues** section!
 
 ---
 
-## 📖 Tentang Mod Ini
-Mod ini dibuat untuk [Jelaskan dalam 1-2 kalimat mod kamu ngapain. Contoh: mengubah tekstur bangunan peternakan menjadi gaya arsitektur Jepang / menambahkan barang-barang baru ke toko Pierre].
+## 📖 About This Mod
+This mod is crafted to bring an immersive Indonesian experience to Stardew Valley, infusing the game with local nuances and a poetic touch. Beyond simple translation, we are reimagining several core mechanics—including pricing systems, choices, and dialogues—to align with the unique **Forrindo** aesthetic.
+
+Until an official Indonesian localization is released, we aim to be the premier choice for players seeking a fresh, engaging, and culturally resonant way to enjoy the valley!
 
 ## 🖼️ Preview
 *(Drag & Drop / Tarik gambar screenshot bersih kamu ke sini. Hapus tulisan miring ini setelah gambar berhasil terupload!)*
